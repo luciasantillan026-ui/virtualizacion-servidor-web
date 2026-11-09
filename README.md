@@ -34,7 +34,7 @@ La implementación permitió poner en práctica los conceptos de virtualización
 
 ### 1. Máquina virtual creada
 
-![Máquina virtual creada](01-maquina-virtual-creada.png)
+![Máquina virtual creada](01-maquina-virtual.creada.png)
 
 ### 2. Actualización de Ubuntu
 
